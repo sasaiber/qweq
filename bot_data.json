@@ -1,0 +1,28 @@
+{
+  "groups": {
+    "-1003098960977": {
+      "title": "Bot Test"
+    },
+    "-1001283438934": {
+      "title": "Office of Administrator"
+    }
+  },
+  "muted_users": {
+    "-1003098960977": {}
+  },
+  "profiles": {
+    "249668029": {
+      "username": "Sky_Visi0n",
+      "first_name": "Sky Vision",
+      "profile": "ТОЧНО НЕ ЛЕША",
+      "created_at": "2025-08-28T01:17:46.103022"
+    }
+  },
+  "gemini_personality": "@TopBoySkyNetChat_bot Привіт=) Я SkyNet! Доглядач за чатом TOP BOYS CHAT. Мене можна питати про все (завдяки Gemini) Людина, не порушуй правила чату і поважай адміністрацію або я вирахую і знайду тебе (жартую, напевно).- Чим можу допомогти? Про що поговоримо?",
+  "reputations": {
+    "-1001283438934_461995181": 0,
+    "-1001283438934_6232976036": 1,
+    "-1001283438934_249668029": 1
+  },
+  "schedule_message_deletion": "<function schedule_message_deletion at 0x000002597F7E0AE0>"
+}
